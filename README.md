@@ -12,3 +12,8 @@ provenance receipt** it can verify offline — in about 5 lines. No signup requi
 * **Per-call** — ~$0.003–$0.02 per request. Pay only when you call; browse for free.
 
 Start with the [Quickstart](quickstart.md) · grab a key at the [Developer portal](developers.md) · or drop in the [SDK](sdk.md) / [MCP server](mcp.md).
+
+
+---
+
+**MERCURY platform docs** (accounts, worlds, hosting + pairing, glasses): see the [platform section](platform/getting-started.md).
